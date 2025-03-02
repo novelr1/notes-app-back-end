@@ -3,3 +3,5 @@ notes-api-webserver.pem
 .vscode
 .eslintrc.json
 eslint.config.mjs
+.env
+.prod.env
