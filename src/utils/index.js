@@ -13,5 +13,5 @@ const mapDBToModel = ({
   createdAt: created_at,
   updatedAt: updated_at,
 });
-// Kemudian kembalikan fungsi mapDBToModel dengan objek note baru yang nama propertinya sudah disesuaikan
+
 module.exports = { mapDBToModel };
