@@ -5,3 +5,5 @@ notes-api-webserver.pem
 eslint.config.mjs
 .env
 .prod.env
+notes-api-web-server.pem
+src/api/uploads/file
